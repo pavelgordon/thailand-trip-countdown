@@ -1,3 +1,4 @@
+Test project written via cursor ai
 ## Getting Started
 
 ```
