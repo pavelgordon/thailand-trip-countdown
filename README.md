@@ -1,5 +1,6 @@
-Test project written via cursor ai
-https://thailand-countdown-ds1mid9ki-pavel-gordons-projects.vercel.app/ 
+Test project written via cursor ai  
+
+https://thailand-countdown.vercel.app/
 ## Getting Started
 
 ```
