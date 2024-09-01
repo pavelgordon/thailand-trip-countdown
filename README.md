@@ -8,4 +8,4 @@ npm start
 ## Screenshot
 
 
-![Screenshot of the Countdown Website](Screenshot 2024-09-01 at 12.24.02.png)
+![Screenshot of the Countdown Website](Screenshot.png)
